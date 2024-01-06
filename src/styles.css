@@ -27,16 +27,16 @@ body {
   margin-left: auto;
 }
 
-.header a i {
+.header a svg { /* github icon */
   margin-right: 20px;
-  font-size: 40px;
-  color: #5F5F5F;
+  fill: #5F5F5F;
+  width: 45px;
+  height: 45px;
 }
 
-.header a i:hover {
+.header a svg:hover {
   margin-right: 20px;
-  font-size: 40px;
-  color: #888888;
+  fill: #888888;
 }
 
 .wrapper {
